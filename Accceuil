@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon Premier Site Web</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Mon Site Web</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">À Propos</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>À Propos de Moi</h2>
+            <p>Je suis passionné par la création de sites web.</p>
+        </section>
+        
+        <section>
+            <h2>Services Offerts</h2>
+            <ul>
+                <li>Conception de sites web</li>
+                <li>Optimisation pour les moteurs de recherche</li>
+                <li>Design Responsive</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Mon Site Web. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
